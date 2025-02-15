@@ -3,4 +3,8 @@ firebase-admin
 gspread
 pandas
 google-auth
+git add requirements.txt
+git commit -m "Added Firebase Admin SDK"
+git push origin main
+
 
